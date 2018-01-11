@@ -1,4 +1,4 @@
-package ie.gmit.ie;
+package ie.gmit.sw;
 
 public class Runner {
 
